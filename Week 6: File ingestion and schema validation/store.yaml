@@ -1,0 +1,16 @@
+file_type: csv
+dataset_name: file
+file_name: dataset
+table_name: table
+inbound_delimiter: ","
+outbound_delimiter: "|"
+skip_leading_rows: 1
+columns: 
+    - Year_month
+    - exp_month
+    - hs9
+    - Customs
+    - Country
+    - q1
+    - q2
+    - ValueYen
